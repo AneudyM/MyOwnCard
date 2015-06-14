@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyOwnCard</string>
+
+    <string name="text1">Hi baby,</string>
+    <string name="text2">This is what I am when we fight.</string>
+    <string name="text5">
+        My attempt at
+        drawing a sad
+        puppy. :eyes:</string>
+    <string name="text3">I\'m sorry.</string>
+    <string name="text4">Yo te quiero mucho.</string>
+    <string name="action_settings">Settings</string>
+</resources>
